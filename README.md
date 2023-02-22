@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @udisha97
-- 👀 I’m interested in learning data science
-- 🌱 I’m currently pursuing IPBA from IIM Indore
-- 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me : udisha.sharma@eco.christuniversity.in
+Hi! I am Udisha,
 
-<!---
-udisha97/udisha97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am passionate about deriving insights from data and presenting it .
+
+I have worked in Yes Bank as a data analyst in the past and I am currently pursuing Business Analytics from IIM Indore, with my experience I have come to understand that data science is an ever evolving field, 
+
+My strength lies in keeping up with this rapid growth through continuous learning; I try to be  the first one to pick up and  implement a new technology . 
+
+Coding me not be my forte yet but I am a Problem Solver if you give me a problem statement you can remain confident that I
+will give you a solution even if I have to learn
+ a completely new technology.
